@@ -21,5 +21,5 @@ Project is created with:
 * css
 
 ## Credit
-Project completed with 6 major contributors. Personally responsible for entity creation and front end.
+Project completed with 6 major contributors. Personally responsible for entity creation, complete documentation and front end.
 Submitted for csc207.
